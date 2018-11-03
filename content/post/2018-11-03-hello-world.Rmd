@@ -1,0 +1,12 @@
+---
+title: Hello, world
+author: ~
+date: '2018-11-03'
+slug: hello-world
+categories: []
+tags: []
+---
+
+```{r, eval=TRUE}
+plot(cars)
+```
